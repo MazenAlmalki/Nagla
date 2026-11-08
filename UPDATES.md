@@ -1,5 +1,11 @@
 # Nagla updates
 
+## 2026-11-08 — Visual business model canvas
+
+- Added a one-page, nine-section canvas using the layout supplied in chat.
+- Filled each section with Naqla’s proposed business model and embedded the canvas in the README and business model document.
+- Kept the launch scope and commercial model marked as assumptions to validate.
+
 Detailed design decisions and workflow notes are recorded here. For the current focus and project status, see [README.md](README.md).
 
 ## 2026-11-08 — Business model drafted

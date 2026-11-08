@@ -1,5 +1,9 @@
 # Naqla business model
 
+![Naqla business model canvas](docs/business-model-canvas.svg)
+
+[View the full-size one-page canvas](docs/business-model-canvas.svg).
+
 ## Business concept
 
 Naqla (نقلة) is a proposed platform for organizing home moves. Customers plan their move, inventory belongings, compare service providers, book an appointment, and follow delivery. Moving companies and their technicians receive structured job details and manage execution.

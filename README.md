@@ -35,6 +35,12 @@ These journeys describe the proposed design. The repository does not yet contain
 
 ## Work log and design details
 
+### Business model canvas
+
+![Naqla business model canvas with nine sections](docs/business-model-canvas.svg)
+
+[Open the full-size canvas](docs/business-model-canvas.svg). This proposed model follows the nine-section layout in the supplied reference; market and pricing assumptions still need validation.
+
 See [BUSINESS_MODEL.md](BUSINESS_MODEL.md) for the business model canvas, revenue strategy, illustrative unit economics, launch plan, risks, and open decisions.
 
 See [UPDATES.md](UPDATES.md) for the detailed workflows, brand palette, reference descriptions, and the prompt used to request the documentation.

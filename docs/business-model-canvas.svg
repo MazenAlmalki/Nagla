@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1060" viewBox="0 0 1600 1060" role="img" aria-labelledby="title desc">
+<title id="title">Naqla Business Model Canvas</title>
+<desc id="desc">Nine-section proposed business model for a moving-services marketplace. Assumptions require validation.</desc>
+<rect width="1600" height="1060" fill="#EEF4F0"/>
+<style>text{font-family:Arial,sans-serif;fill:#102B36}.heading{font-size:23px;font-weight:700}.body{font-size:19px}.meta{font-size:17px}</style>
+<text x="32" y="54" font-size="36" font-weight="700">Naqla | Business Model Canvas</text>
+<text x="32" y="87" class="meta">Designed for: Naqla moving platform    •    Prepared on: Mazzen branch    •    Version 1    •    8 Nov 2026</text>
+<rect x="32" y="118" width="307" height="610" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="32" y="118" width="307" height="8" fill="#19A69C"/>
+<text x="50" y="160" class="heading">Key Partners</text>
+<text x="50" y="200" class="body">Moving companies</text>
+<text x="50" y="229" class="body">and their technicians</text>
+<text x="50" y="258" class="body"></text>
+<text x="50" y="287" class="body">Payment providers</text>
+<text x="50" y="316" class="body"></text>
+<text x="50" y="345" class="body">Packing suppliers</text>
+<text x="50" y="374" class="body"></text>
+<text x="50" y="403" class="body">Property managers</text>
+<text x="50" y="432" class="body">and real estate agents</text>
+<text x="50" y="461" class="body"></text>
+<text x="50" y="490" class="body">Later: home-service</text>
+<text x="50" y="519" class="body">and internet partners</text>
+<rect x="339" y="118" width="307" height="305" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="339" y="118" width="307" height="8" fill="#19A69C"/>
+<text x="357" y="160" class="heading">Key Activities</text>
+<text x="357" y="200" class="body">Recruit and verify providers</text>
+<text x="357" y="229" class="body">Match requests and quotes</text>
+<text x="357" y="258" class="body">Coordinate bookings</text>
+<text x="357" y="287" class="body">Support active moves</text>
+<text x="357" y="316" class="body">Resolve service issues</text>
+<text x="357" y="345" class="body">Maintain the platform</text>
+<rect x="339" y="423" width="307" height="305" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="339" y="423" width="307" height="8" fill="#19A69C"/>
+<text x="357" y="465" class="heading">Key Resources</text>
+<text x="357" y="505" class="body">Product and engineering</text>
+<text x="357" y="534" class="body">Provider network</text>
+<text x="357" y="563" class="body">Operations and support</text>
+<text x="357" y="592" class="body">Booking and inventory data</text>
+<text x="357" y="621" class="body">Brand and customer trust</text>
+<rect x="646" y="118" width="307" height="610" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="646" y="118" width="307" height="8" fill="#19A69C"/>
+<text x="664" y="160" class="heading">Value Propositions</text>
+<text x="664" y="200" class="body">CUSTOMERS</text>
+<text x="664" y="229" class="body">One guided moving plan</text>
+<text x="664" y="258" class="body">Reviewed belongings list</text>
+<text x="664" y="287" class="body">Comparable service quotes</text>
+<text x="664" y="316" class="body">Reliable scheduling</text>
+<text x="664" y="345" class="body">Visible job progress</text>
+<text x="664" y="374" class="body"></text>
+<text x="664" y="403" class="body">PROVIDERS</text>
+<text x="664" y="432" class="body">Qualified booking requests</text>
+<text x="664" y="461" class="body">Clear inventory and access</text>
+<text x="664" y="490" class="body">details before the move</text>
+<text x="664" y="519" class="body">Tools to manage execution</text>
+<rect x="953" y="118" width="307" height="305" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="953" y="118" width="307" height="8" fill="#19A69C"/>
+<text x="971" y="160" class="heading">Customer Relationships</text>
+<text x="971" y="200" class="body">Guided booking</text>
+<text x="971" y="229" class="body">Reminders and updates</text>
+<text x="971" y="258" class="body">Support during the move</text>
+<text x="971" y="287" class="body">Documented issue handling</text>
+<text x="971" y="316" class="body">Post-service reviews</text>
+<rect x="953" y="423" width="307" height="305" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="953" y="423" width="307" height="8" fill="#19A69C"/>
+<text x="971" y="465" class="heading">Channels</text>
+<text x="971" y="505" class="body">Search and social media</text>
+<text x="971" y="534" class="body">Customer referrals</text>
+<text x="971" y="563" class="body">Moving-company partners</text>
+<text x="971" y="592" class="body">Property managers</text>
+<text x="971" y="621" class="body">Real estate agents</text>
+<rect x="1260" y="118" width="308" height="610" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="1260" y="118" width="308" height="8" fill="#19A69C"/>
+<text x="1278" y="160" class="heading">Customer Segments</text>
+<text x="1278" y="200" class="body">Households moving</text>
+<text x="1278" y="229" class="body">within one city</text>
+<text x="1278" y="258" class="body"></text>
+<text x="1278" y="287" class="body">Initial focus: renters</text>
+<text x="1278" y="316" class="body">and families needing</text>
+<text x="1278" y="345" class="body">packing and transport</text>
+<text x="1278" y="374" class="body"></text>
+<text x="1278" y="403" class="body">Supply-side partners:</text>
+<text x="1278" y="432" class="body">moving companies</text>
+<text x="1278" y="461" class="body"></text>
+<text x="1278" y="490" class="body">Future paying segment:</text>
+<text x="1278" y="519" class="body">providers using software</text>
+<rect x="32" y="728" width="768" height="240" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="32" y="728" width="768" height="8" fill="#19A69C"/>
+<text x="50" y="770" class="heading">Cost Structure</text>
+<text x="50" y="810" class="body">Product development and hosting</text>
+<text x="50" y="839" class="body">Customer acquisition and provider onboarding</text>
+<text x="50" y="868" class="body">Payment processing and variable support</text>
+<text x="50" y="897" class="body">Refunds, claims handling, and operations staffing</text>
+<rect x="800" y="728" width="768" height="240" fill="white" stroke="#102B36" stroke-width="2"/>
+<rect x="800" y="728" width="768" height="8" fill="#19A69C"/>
+<text x="818" y="770" class="heading">Revenue Streams</text>
+<text x="818" y="810" class="body">Primary: commission on completed moving bookings</text>
+<text x="818" y="839" class="body">Pilot option: packing services and materials</text>
+<text x="818" y="868" class="body">Later: eligible home-service referral fees</text>
+<text x="818" y="897" class="body">Later: provider software subscriptions</text>
+<text x="32" y="1003" class="meta">Proposed model • Initial market assumption: one Saudi city • Pricing, launch scope, and terms require validation.</text>
+<text x="32" y="1031" class="meta">See BUSINESS_MODEL.md for transaction flow, illustrative unit economics, risks, and open decisions.</text>
+</svg>
