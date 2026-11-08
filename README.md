@@ -12,6 +12,7 @@ My current focus is:
 - **Customer experience:** Moving plans, room inventory, service booking, scheduling, live tracking, and ratings.
 - **Technician experience:** Assigned tasks, job details, task acceptance, collection and delivery, progress updates, and completion reports.
 - **Documentation:** Recording the design references, prompts provided, and proposed behavior before implementation.
+- **Business planning:** Defining the marketplace model, revenue streams, operating costs, and a focused launch pilot.
 
 ## Current progress
 
@@ -20,6 +21,7 @@ My current focus is:
 | Branding reference | Documented from the supplied concept image |
 | Customer workflow | Documented |
 | Technician workflow | Documented |
+| Business model | Drafted; pricing and market assumptions need validation |
 | Reference images | Supplied in chat; files are not yet stored in this repository |
 | App implementation | Not started in this repository |
 
@@ -32,6 +34,8 @@ My current focus is:
 These journeys describe the proposed design. The repository does not yet contain a runnable app or automated tests.
 
 ## Work log and design details
+
+See [BUSINESS_MODEL.md](BUSINESS_MODEL.md) for the business model canvas, revenue strategy, illustrative unit economics, launch plan, risks, and open decisions.
 
 See [UPDATES.md](UPDATES.md) for the detailed workflows, brand palette, reference descriptions, and the prompt used to request the documentation.
 

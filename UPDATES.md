@@ -2,6 +2,13 @@
 
 Detailed design decisions and workflow notes are recorded here. For the current focus and project status, see [README.md](README.md).
 
+## 2026-11-08 — Business model drafted
+
+- Added [BUSINESS_MODEL.md](BUSINESS_MODEL.md) covering customer segments, value proposition, marketplace operations, partners, revenue, and costs.
+- Included illustrative SAR unit economics, a pilot launch plan, performance metrics, and risks to validate.
+- Identified open decisions; Saudi launch scope, pricing, and financial figures remain assumptions.
+- Request prompt: “build the busseins model now”.
+
 ## 2026-11-08 — Project overview organized
 
 - Added a formatted README describing the current work on `Mazzen`.
