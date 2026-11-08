@@ -1,5 +1,13 @@
 # Nagla updates
 
+Detailed design decisions and workflow notes are recorded here. For the current focus and project status, see [README.md](README.md).
+
+## 2026-11-08 — Project overview organized
+
+- Added a formatted README describing the current work on `Mazzen`.
+- Summarized progress on branding, the customer experience, and the technician experience.
+- Kept detailed workflow and prompt records below, and clarified that app implementation has not started in this repository.
+
 ## 2026-11-08 — Branding and proposed customer and technician workflows
 
 Branch: `Mazzen`
